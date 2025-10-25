@@ -1,5 +1,5 @@
 # Correlation and regression for data analysis
-# Date : 26/10/24
+# Date : 25/10/25
 # Name : Marimuthu Mathavan
 # Aim : 
 
@@ -22,6 +22,7 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+```
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -54,6 +55,7 @@ plt.plot(x,y1,'r')
 plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
+```
 # Output
 ![WhatsApp Image 2024-12-20 at 20 20 16_e1db48f3](https://github.com/user-attachments/assets/96e05730-7cc5-4cdf-8bb1-6ebc2f08c2ab)
 
